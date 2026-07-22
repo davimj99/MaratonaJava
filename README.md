@@ -49,11 +49,12 @@ O objetivo é consolidar os principais conceitos da linguagem, desde os fundamen
 | Estruturas de Repetição | ✅ |
 | Arrays | ✅ |
 | Classes e Objetos | ✅ |
-| Métodos | ⏳ |
+| Métodos | ✅ |
+| Sobrecarga de Métodos | ✅ |
+| Construtores | ✅ |
+| Sobrecarga de Construtores |✅ |
+| Blocos de Inicialização | ⏳ |
 | Encapsulamento | ⏹️ |
-| Sobrecarga de Métodos | ⏹️ |
-| Construtores | ⏹️ |
-| Blocos de Inicialização | ⏹️ |
 | Modificador Static | ⏹️ |
 | Associação | ⏹️ |
 | Herança | ⏹️ |
