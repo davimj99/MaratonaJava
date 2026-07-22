@@ -40,42 +40,44 @@ O objetivo é consolidar os principais conceitos da linguagem, desde os fundamen
 > ⏳ Em andamento  
 > ⏹️ Ainda não iniciado
 
-| Conteúdo | Status |
-|-----------|:------:|
-| Lógica |   ✅    |
-| Tipos Primitivos |   ✅    |
-| Operadores |   ✅    |
-| Estruturas Condicionais |   ✅    |
-| Estruturas de Repetição |   ✅    |
-| Arrays |   ✅    |
-| Classes e Objetos |   ✅    |
-| Métodos |   ✅    |
-| Sobrecarga de Métodos |   ✅    |
-| Construtores |   ✅    |
-| Sobrecarga de Construtores |   ✅    |
-| Blocos de Inicialização |     ✅   |
-| Modificador Static |   ⏳   |
-| Encapsulamento |   ⏹️   |
-| Associação |   ⏹️   |
-| Herança |   ⏹️   |
-| Polimorfismo |   ⏹️   |
-| Classes Abstratas |   ⏹️   |
-| Interfaces |   ⏹️   |
-| Exceções |   ⏹️   |
-| Wrappers |   ⏹️   |
-| Strings |   ⏹️   |
-| Datas |   ⏹️   |
-| Internacionalização |   ⏹️   |
-| Expressões Regulares |   ⏹️   |
-| IO / NIO |   ⏹️   |
-| Coleções |   ⏹️   |
-| Generics |   ⏹️   |
-| Classes Internas |   ⏹️   |
-| Lambdas |   ⏹️   |
-| Streams API |   ⏹️   |
-| Threads |   ⏹️   |
-| Concorrência |   ⏹️   |
-| JDBC |   ⏹️   |
+| Conteúdo                       | Status |
+|--------------------------------|:------:|
+| Lógica                         |   ✅    |
+| Tipos Primitivos               |   ✅    |
+| Operadores                     |   ✅    |
+| Estruturas Condicionais        |   ✅    |
+| Estruturas de Repetição        |   ✅    |
+| Arrays                         |   ✅    |
+| Classes e Objetos              |   ✅    |
+| Métodos                        |   ✅    |
+| Sobrecarga de Métodos          |   ✅    |
+| Construtores                   |   ✅    |
+| Sobrecarga de Construtores     |   ✅    |
+| Blocos de Inicialização        |     ✅   |
+| Modificador Static             |   ✅   |
+| Métodos Static                 |   ✅   |
+| Blocos de inicialização Static |   ⏳   |
+| Encapsulamento                 |   ⏹️   |
+| Associação                     |   ⏹️   |
+| Herança                        |   ⏹️   |
+| Polimorfismo                   |   ⏹️   |
+| Classes Abstratas              |   ⏹️   |
+| Interfaces                     |   ⏹️   |
+| Exceções                       |   ⏹️   |
+| Wrappers                       |   ⏹️   |
+| Strings                        |   ⏹️   |
+| Datas                          |   ⏹️   |
+| Internacionalização            |   ⏹️   |
+| Expressões Regulares           |   ⏹️   |
+| IO / NIO                       |   ⏹️   |
+| Coleções                       |   ⏹️   |
+| Generics                       |   ⏹️   |
+| Classes Internas               |   ⏹️   |
+| Lambdas                        |   ⏹️   |
+| Streams API                    |   ⏹️   |
+| Threads                        |   ⏹️   |
+| Concorrência                   |   ⏹️   |
+| JDBC                           |   ⏹️   |
 
 ---
 
