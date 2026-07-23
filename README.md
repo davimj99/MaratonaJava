@@ -53,12 +53,13 @@ O objetivo é consolidar os principais conceitos da linguagem, desde os fundamen
 | Sobrecarga de Métodos          |   ✅    |
 | Construtores                   |   ✅    |
 | Sobrecarga de Construtores     |   ✅    |
-| Blocos de Inicialização        |     ✅   |
-| Modificador Static             |   ✅   |
-| Métodos Static                 |   ✅   |
-| Blocos de inicialização Static |   ⏳   |
+| Blocos de Inicialização        |   ✅    |
+| Modificador Static             |   ✅    |
+| Métodos Static                 |   ✅    |
+| Blocos de inicialização Static |   ✅    |
+| Arrys com Objetos              |   ✅    |
+| Associação                     |   ⏳    |
 | Encapsulamento                 |   ⏹️   |
-| Associação                     |   ⏹️   |
 | Herança                        |   ⏹️   |
 | Polimorfismo                   |   ⏹️   |
 | Classes Abstratas              |   ⏹️   |
