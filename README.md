@@ -61,9 +61,9 @@ O objetivo é consolidar os principais conceitos da linguagem, desde os fundamen
 | Associação                     |   ✅    |
 | Associação Unidirecional       |   ✅    |
 | Associação Bidirecional        |   ✅    |
-| Leituras de dados pelo console |   ⏳    |
-| Encapsulamento                 |   ⏹️   |
-| Herança                        |   ⏹️   |
+| Leituras de dados pelo console |   ✅    |
+| Encapsulamento                 |   ⏳   |
+| Herança                        |   ⏳  |
 | Polimorfismo                   |   ⏹️   |
 | Classes Abstratas              |   ⏹️   |
 | Interfaces                     |   ⏹️   |
