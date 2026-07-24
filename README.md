@@ -57,8 +57,11 @@ O objetivo é consolidar os principais conceitos da linguagem, desde os fundamen
 | Modificador Static             |   ✅    |
 | Métodos Static                 |   ✅    |
 | Blocos de inicialização Static |   ✅    |
-| Arrys com Objetos              |   ✅    |
-| Associação                     |   ⏳    |
+| Arrays com Objetos             |   ✅    |
+| Associação                     |   ✅    |
+| Associação Unidirecional       |   ✅    |
+| Associação Bidirecional        |   ✅    |
+| Leituras de dados pelo console |   ⏳    |
 | Encapsulamento                 |   ⏹️   |
 | Herança                        |   ⏹️   |
 | Polimorfismo                   |   ⏹️   |
