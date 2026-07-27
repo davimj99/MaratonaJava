@@ -4,7 +4,7 @@ import onrender.davidev.maratonajava.javacore.Hheranca.dominio.Endereco;
 import onrender.davidev.maratonajava.javacore.Hheranca.dominio.Funcionario;
 import onrender.davidev.maratonajava.javacore.Hheranca.dominio.Pessoa;
 
-public class HerancaTest {
+public class HerancaTest01 {
     public static void main(String[] args) {
         Endereco endereco = new Endereco();
         endereco.setRua("Rua SRI 2 ");
