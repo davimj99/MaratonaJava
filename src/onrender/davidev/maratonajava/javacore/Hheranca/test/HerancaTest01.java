@@ -16,6 +16,7 @@ public class HerancaTest01 {
         pessoa.setEndereco(endereco);
         pessoa.imprime();
 
+
         System.out.println("=".repeat(20)); //.repeat metodo usado para repetir String
 
         Funcionario funcionario = new Funcionario();
