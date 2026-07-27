@@ -10,8 +10,7 @@ public class HerancaTest01 {
         endereco.setRua("Rua SRI 2 ");
         endereco.setCep("70.256-230");
 
-        Pessoa pessoa = new Pessoa();
-        pessoa.setNome("David Souza");
+        Pessoa pessoa = new Pessoa("David Souza");
         pessoa.setCpf("111.111.111-20");
         pessoa.setEndereco(endereco);
         pessoa.imprime();
@@ -19,9 +18,7 @@ public class HerancaTest01 {
 
         System.out.println("=".repeat(20)); //.repeat metodo usado para repetir String
 
-        Funcionario funcionario = new Funcionario();
-        funcionario.setNome("Mariana Fernandes ");
-        funcionario.setCpf("111.111.111-20");
+        Funcionario funcionario = new Funcionario("Mariana Fernandes" , "111.111.111-20");
         funcionario.setEndereco(endereco);
         funcionario.setSalario(9200);
         funcionario.imprime();
