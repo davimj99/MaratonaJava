@@ -3,10 +3,25 @@ package onrender.davidev.maratonajava.javacore.Hheranca.dominio;
 public class Funcionario extends Pessoa {
     private double salario;
 
+    static {
+        System.out.println("Dentro do bloco de inicialização estático de Funcionario");
+    }
+
+    {
+        System.out.println("Dentro do Bloco de incialização de Funcionario 1");
+    }
+
+    {
+        System.out.println("Dentro do Bloco de incialização de Funcionario 2");
+    }
+
     public Funcionario(String nome, String cpf) {
         super(nome);
         super.cpf = cpf;
+        System.out.println("Dentro do construtor de Funcionario");
     }
+
+
 
     public void imprime() {
         super.imprime();
