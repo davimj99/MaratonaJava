@@ -1,12 +1,13 @@
 package onrender.davidev.maratonajava.javacore.Jmodficadorfinal.dominio;
 
-public class Carro {
+public class Comprador {
     private String nome;
-    public static final double VELOCIDADE_LIMITE ;
-    public final Comprador COMPRADOR = new Comprador();
-    
-    static {
-        VELOCIDADE_LIMITE = 250;
+
+    @Override
+    public String toString() {
+        return "Comprador{" +
+                "nome='" + nome + '\'' +
+                '}';
     }
 
     public String getNome() {
