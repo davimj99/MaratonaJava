@@ -41,31 +41,35 @@ O objetivo é consolidar os principais conceitos da linguagem, desde os fundamen
 > ⏹️ Ainda não iniciado
 
 | Conteúdo                       | Status |
-|--------------------------------|:------:|
-| Lógica                         |   ✅    |
-| Tipos Primitivos               |   ✅    |
-| Operadores                     |   ✅    |
-| Estruturas Condicionais        |   ✅    |
-| Estruturas de Repetição        |   ✅    |
-| Arrays                         |   ✅    |
-| Classes e Objetos              |   ✅    |
-| Métodos                        |   ✅    |
-| Sobrecarga de Métodos          |   ✅    |
-| Construtores                   |   ✅    |
-| Sobrecarga de Construtores     |   ✅    |
-| Blocos de Inicialização        |   ✅    |
-| Modificador Static             |   ✅    |
-| Métodos Static                 |   ✅    |
-| Blocos de inicialização Static |   ✅    |
-| Arrays com Objetos             |   ✅    |
-| Associação                     |   ✅    |
-| Associação Unidirecional       |   ✅    |
-| Associação Bidirecional        |   ✅    |
-| Leituras de dados pelo console |   ✅    |
-| Encapsulamento                 |   ✅    |
-| Herança                        |   ⏳  |
-| Polimorfismo                   |   ⏹️   |
-| Classes Abstratas              |   ⏹️   |
+| ------------------------------ | :----: |
+| Lógica                         |    ✅   |
+| Tipos Primitivos               |    ✅   |
+| Operadores                     |    ✅   |
+| Estruturas Condicionais        |    ✅   |
+| Estruturas de Repetição        |    ✅   |
+| Arrays                         |    ✅   |
+| Classes e Objetos              |    ✅   |
+| Métodos                        |    ✅   |
+| Sobrecarga de Métodos          |    ✅   |
+| Construtores                   |    ✅   |
+| Sobrecarga de Construtores     |    ✅   |
+| Blocos de Inicialização        |    ✅   |
+| Modificador Static             |    ✅   |
+| Métodos Static                 |    ✅   |
+| Blocos de Inicialização Static |    ✅   |
+| Arrays com Objetos             |    ✅   |
+| Associação                     |    ✅   |
+| Associação Unidirecional       |    ✅   |
+| Associação Bidirecional        |    ✅   |
+| Leituras de dados pelo console |    ✅   |
+| Encapsulamento                 |    ✅   |
+| Herança                        |    ✅   |
+| Modificador Final              |    ✅   |
+| Palavra-chave `super`          |    ✅   |
+| Anotação `@Override`           |    ✅   |
+| Enumerações (`enum`)           |    ✅   |
+| Polimorfismo                   |    ⏳   |
+| Classes Abstratas              |    ⏳   |
 | Interfaces                     |   ⏹️   |
 | Exceções                       |   ⏹️   |
 | Wrappers                       |   ⏹️   |
@@ -82,6 +86,7 @@ O objetivo é consolidar os principais conceitos da linguagem, desde os fundamen
 | Threads                        |   ⏹️   |
 | Concorrência                   |   ⏹️   |
 | JDBC                           |   ⏹️   |
+
 
 ---
 
