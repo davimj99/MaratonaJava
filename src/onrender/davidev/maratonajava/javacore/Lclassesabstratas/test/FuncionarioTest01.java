@@ -11,5 +11,8 @@ public class FuncionarioTest01 {
 
         Desenvolvedor desenvolvedor = new Desenvolvedor("David L Souza", 10000);
         System.out.println(desenvolvedor);
+
+        gerente.imprime();
+        desenvolvedor.imprime();
     }
 }
