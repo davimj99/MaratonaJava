@@ -70,7 +70,7 @@ O objetivo é consolidar os principais conceitos da linguagem, desde os fundamen
 | Enumerações (`enum`)             |    ✅   |
 | Classes Abstratas                |    ✅   |
 | Interfaces                       |    ✅   |
-| Polimorfismo                     |    ⏳   |
+| Polimorfismo                     |    ⏳   |"
 | Exceções                         |   ⏹️   |
 | Wrappers                         |   ⏹️   |
 | Strings                          |   ⏹️   |
