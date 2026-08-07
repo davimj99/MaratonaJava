@@ -40,52 +40,53 @@ O objetivo é consolidar os principais conceitos da linguagem, desde os fundamen
 > ⏳ Em andamento  
 > ⏹️ Ainda não iniciado
 
-| Conteúdo                       | Status |
-| ------------------------------ | :----: |
-| Lógica                         |    ✅   |
-| Tipos Primitivos               |    ✅   |
-| Operadores                     |    ✅   |
-| Estruturas Condicionais        |    ✅   |
-| Estruturas de Repetição        |    ✅   |
-| Arrays                         |    ✅   |
-| Classes e Objetos              |    ✅   |
-| Métodos                        |    ✅   |
-| Sobrecarga de Métodos          |    ✅   |
-| Construtores                   |    ✅   |
-| Sobrecarga de Construtores     |    ✅   |
-| Blocos de Inicialização        |    ✅   |
-| Modificador Static             |    ✅   |
-| Métodos Static                 |    ✅   |
-| Blocos de Inicialização Static |    ✅   |
-| Arrays com Objetos             |    ✅   |
-| Associação                     |    ✅   |
-| Associação Unidirecional       |    ✅   |
-| Associação Bidirecional        |    ✅   |
-| Leituras de dados pelo console |    ✅   |
-| Encapsulamento                 |    ✅   |
-| Herança                        |    ✅   |
-| Modificador Final              |    ✅   |
-| Palavra-chave `super`          |    ✅   |
-| Anotação `@Override`           |    ✅   |
-| Enumerações (`enum`)           |    ✅   |
-| Polimorfismo                   |    ⏳   |
-| Classes Abstratas              |    ⏳   |
-| Interfaces                     |   ⏹️   |
-| Exceções                       |   ⏹️   |
-| Wrappers                       |   ⏹️   |
-| Strings                        |   ⏹️   |
-| Datas                          |   ⏹️   |
-| Internacionalização            |   ⏹️   |
-| Expressões Regulares           |   ⏹️   |
-| IO / NIO                       |   ⏹️   |
-| Coleções                       |   ⏹️   |
-| Generics                       |   ⏹️   |
-| Classes Internas               |   ⏹️   |
-| Lambdas                        |   ⏹️   |
-| Streams API                    |   ⏹️   |
-| Threads                        |   ⏹️   |
-| Concorrência                   |   ⏹️   |
-| JDBC                           |   ⏹️   |
+| Conteúdo                         | Status |
+| -------------------------------- | :----: |
+| Lógica                           |    ✅   |
+| Tipos Primitivos                 |    ✅   |
+| Operadores                       |    ✅   |
+| Estruturas Condicionais          |    ✅   |
+| Estruturas de Repetição          |    ✅   |
+| Arrays                           |    ✅   |
+| Classes e Objetos                |    ✅   |
+| Métodos                          |    ✅   |
+| Sobrecarga de Métodos            |    ✅   |
+| Construtores                     |    ✅   |
+| Sobrecarga de Construtores       |    ✅   |
+| Blocos de Inicialização          |    ✅   |
+| Modificador `static`             |    ✅   |
+| Métodos `static`                 |    ✅   |
+| Blocos de Inicialização `static` |    ✅   |
+| Arrays com Objetos               |    ✅   |
+| Associação                       |    ✅   |
+| Associação Unidirecional         |    ✅   |
+| Associação Bidirecional          |    ✅   |
+| Leituras de dados pelo console   |    ✅   |
+| Encapsulamento                   |    ✅   |
+| Herança                          |    ✅   |
+| Modificador `final`              |    ✅   |
+| Palavra-chave `super`            |    ✅   |
+| Anotação `@Override`             |    ✅   |
+| Enumerações (`enum`)             |    ✅   |
+| Classes Abstratas                |    ✅   |
+| Interfaces                       |    ✅   |
+| Polimorfismo                     |    ⏳   |
+| Exceções                         |   ⏹️   |
+| Wrappers                         |   ⏹️   |
+| Strings                          |   ⏹️   |
+| Datas                            |   ⏹️   |
+| Internacionalização              |   ⏹️   |
+| Expressões Regulares             |   ⏹️   |
+| IO / NIO                         |   ⏹️   |
+| Coleções                         |   ⏹️   |
+| Generics                         |   ⏹️   |
+| Classes Internas                 |   ⏹️   |
+| Lambdas                          |   ⏹️   |
+| Streams API                      |   ⏹️   |
+| Threads                          |   ⏹️   |
+| Concorrência                     |   ⏹️   |
+| JDBC                             |   ⏹️   |
+
 
 
 ---
