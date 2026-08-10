@@ -1,4 +1,4 @@
-package onrender.davidev.maratonajava.javacore.Oexception.test;
+package onrender.davidev.maratonajava.javacore.Oexception.error.test;
 
 public class StackOverFlowTest01 {
     public static void main(String[] args) {
