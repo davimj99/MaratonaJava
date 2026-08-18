@@ -1,6 +1,6 @@
 package onrender.davidev.maratonajava.javacore.Oexception.runtime.test;
 
-public class RuntimeExcpetionTest02 {
+public class RuntimeExcepetionTest02 {
     public static void main(String[] args) {
         divisao(1,0);
     }
