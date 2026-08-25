@@ -1,6 +1,6 @@
 package onrender.davidev.maratonajava.javacore.Qstring.test;
 
-public class StringPerfomanceTest {
+public class StringPerfomanceTest01 {
     public static void main(String[] args) {
         long inicio = System.currentTimeMillis();
         concatString(100_000);
