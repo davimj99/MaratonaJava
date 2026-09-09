@@ -40,64 +40,65 @@ O objetivo é consolidar os principais conceitos da linguagem, desde os fundamen
 > ⏳ Em andamento  
 > ⏹️ Ainda não iniciado
 
-| Conteúdo                         | Status |
-|----------------------------------|:------:|
-| Lógica                           |   ✅    |
-| Tipos Primitivos                 |   ✅    |
-| Operadores                       |   ✅    |
-| Estruturas Condicionais          |   ✅    |
-| Estruturas de Repetição          |   ✅    |
-| Arrays                           |   ✅    |
-| Classes e Objetos                |   ✅    |
-| Métodos                          |   ✅    |
-| Sobrecarga de Métodos            |   ✅    |
-| Construtores                     |   ✅    |
-| Sobrecarga de Construtores       |   ✅    |
-| Blocos de Inicialização          |   ✅    |
-| Modificador `static`             |   ✅    |
-| Métodos `static`                 |   ✅    |
-| Blocos de Inicialização `static` |   ✅    |
-| Arrays com Objetos               |   ✅    |
-| Associação                       |   ✅    |
-| Associação Unidirecional         |   ✅    |
-| Associação Bidirecional          |   ✅    |
-| Leituras de dados pelo console   |   ✅    |
-| Encapsulamento                   |   ✅    |
-| Herança                          |   ✅    |
-| Modificador `final`              |   ✅    |
-| Palavra-chave `super`            |   ✅    |
-| Anotação `@Override`             |   ✅    |
-| Enumerações (`enum`)             |   ✅    |
-| Classes Abstratas                |   ✅    |
-| Interfaces                       |   ✅    |
-| Polimorfismo                     |   ✅    |
-| `cast` e `instanceof`            |   ✅    |
-| Programação orientada a interface|   ✅    |
-| Exceções                         |   ✅    |
-|`Error`                           |   ✅    |
-|`RuntimeException`                |   ✅    |
-| Stack trace                      |   ✅    |
-| Exceção checked e Unchecked      |   ✅    |
-|`finally`                         |   ✅    |
-| Múltiplas exceções               |   ✅    |
-| Multi-catch                      |   ✅    |
-| Try-with-resources               |   ✅    |
-| Exceções customizadas            |   ✅    |
-| Regras de sobrescrita de exceções|   ✅    |
-| Wrappers                         |   ⏳    |
-| Strings                          |   ⏹️   |
-| Datas                            |   ⏹️   |
-| Internacionalização              |   ⏹️   |
-| Expressões Regulares             |   ⏹️   |
-| IO / NIO                         |   ⏹️   |
-| Coleções                         |   ⏹️   |
-| Generics                         |   ⏹️   |
-| Classes Internas                 |   ⏹️   |
-| Lambdas                          |   ⏹️   |
-| Streams API                      |   ⏹️   |
-| Threads                          |   ⏹️   |
-| Concorrência                     |   ⏹️   |
-| JDBC                             |   ⏹️   |
+| Conteúdo                          | Status |
+|-----------------------------------|:------:|
+| Lógica                            |   ✅    |
+| Tipos Primitivos                  |   ✅    |
+| Operadores                        |   ✅    |
+| Estruturas Condicionais           |   ✅    |
+| Estruturas de Repetição           |   ✅    |
+| Arrays                            |   ✅    |
+| Classes e Objetos                 |   ✅    |
+| Métodos                           |   ✅    |
+| Sobrecarga de Métodos             |   ✅    |
+| Construtores                      |   ✅    |
+| Sobrecarga de Construtores        |   ✅    |
+| Blocos de Inicialização           |   ✅    |
+| Modificador `static`              |   ✅    |
+| Métodos `static`                  |   ✅    |
+| Blocos de Inicialização `static`  |   ✅    |
+| Arrays com Objetos                |   ✅    |
+| Associação                        |   ✅    |
+| Associação Unidirecional          |   ✅    |
+| Associação Bidirecional           |   ✅    |
+| Leituras de dados pelo console    |   ✅    |
+| Encapsulamento                    |   ✅    |
+| Herança                           |   ✅    |
+| Modificador `final`               |   ✅    |
+| Palavra-chave `super`             |   ✅    |
+| Anotação `@Override`              |   ✅    |
+| Enumerações (`enum`)              |   ✅    |
+| Classes Abstratas                 |   ✅    |
+| Interfaces                        |   ✅    |
+| Polimorfismo                      |   ✅    |
+| `cast` e `instanceof`             |   ✅    |
+| Programação orientada a interface |   ✅    |
+| Exceções                          |   ✅    |
+| `Error`                           |   ✅    |
+| `RuntimeException`                |   ✅    |
+| Stack trace                       |   ✅    |
+| Exceção checked e Unchecked       |   ✅    |
+| `finally`                         |   ✅    |
+| Múltiplas exceções                |   ✅    |
+| Multi-catch                       |   ✅    |
+| Try-with-resources                |   ✅    |
+| Exceções customizadas             |   ✅    |
+| Regras de sobrescrita de exceções |   ✅    |
+| `Wrappers`                        |   ✅    |
+| `Strings`                         |   ✅    |
+| Datas                             |   ✅    |
+| Formatação de Datas               |   ✅    |
+| Formatação de Moedas              |   ✅    |
+| Expressões Regulares              |   ⏹️   |
+| IO / NIO                          |   ⏹️   |
+| Coleções                          |   ⏹️   |
+| Generics                          |   ⏹️   |
+| Classes Internas                  |   ⏹️   |
+| Lambdas                           |   ⏹️   |
+| Streams API                       |   ⏹️   |
+| Threads                           |   ⏹️   |
+| Concorrência                      |   ⏹️   |
+| JDBC                              |   ⏹️   |
 
 
 
