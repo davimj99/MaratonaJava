@@ -89,8 +89,11 @@ O objetivo é consolidar os principais conceitos da linguagem, desde os fundamen
 | Datas                             |   ✅    |
 | Formatação de Datas               |   ✅    |
 | Formatação de Moedas              |   ✅    |
-| Expressões Regulares              |   ⏹️   |
-| IO / NIO                          |   ⏹️   |
+| `ResourceBundle` (Troca de Idiomas) |   ✅    |
+| `Scanner`, Tokens e Delimitadores |   ✅    |
+| Expressões Regulares (`Pattern` e `Matcher`) |   ✅    |
+| IO (`File`, `FileWriter`, `FileReader`, `BufferedWriter`, `BufferedReader`) |   ✅    |
+| NIO (`Path`, `Paths`, `Files`, Atributos, `DirectoryStream`, `FileVisitor`, `PathMatcher`, `ZipOutputStream`) |   ⏳    |
 | Coleções                          |   ⏹️   |
 | Generics                          |   ⏹️   |
 | Classes Internas                  |   ⏹️   |
@@ -169,6 +172,8 @@ Durante esta jornada serão abordados temas como:
 - Programação Orientada a Objetos (POO)
 - Boas práticas de desenvolvimento
 - Clean Code
+- Expressões Regulares (Regex)
+- IO e NIO (manipulação de arquivos e diretórios)
 - Collections Framework
 - Tratamento de Exceções
 - Generics
