@@ -1,6 +1,7 @@
 package onrender.davidev.maratonajava.javacore.Xserializacao.test;
 
 import onrender.davidev.maratonajava.javacore.Xserializacao.dominio.Aluno;
+import onrender.davidev.maratonajava.javacore.Xserializacao.dominio.Turma;
 
 import java.io.IOException;
 import java.io.ObjectInputStream;
@@ -11,9 +12,11 @@ import java.nio.file.Paths;
 
 public class SerializacaoTest01 {
     public static void main(String[] args) {
-        Aluno aluno = new Aluno(1L , "DAVI DEV", "121212");
-//        serializar(aluno);
-        deserializar();
+      Aluno aluno = new Aluno(1L , "DAVI DEV", "1212122");
+      Turma turma = new Turma("Davi Dev bom");
+      aluno.setTurma(turma);
+      serializar(aluno);
+      deserializar();
     }
     private static void serializar(Aluno aluno){
         Path path = Paths.get("pasta/aluno.ser");
